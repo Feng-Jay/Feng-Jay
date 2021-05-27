@@ -1,14 +1,4 @@
 ### Hi there 👋
-![](http://antzuhl.cn:4000/get/@Feng-Jay.readme)
-Here are some ideas to get you started:
-
--🔭 I’m currently working on Operating System.  
--🌱 I’m currently learning Python and algorithm.  
--👯 I’m looking to collaborate on reading guide books.    
--🤔 I’m looking for help with ...  
--💬 Ask me about practice problem(NEMU?).  
--📫 How to reach me: [My page](https://www.ffhw.site/)   
--😄 Pronouns: ...  
--⚡ Fun fact: Always want to do something, always did nothing. XD   
- 
+![](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.readme)
+  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Feng-Jay&show_icons=true&theme=tokyonight)
