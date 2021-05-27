@@ -3,7 +3,9 @@
 ### Hi there I'm Feng-Jay👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.readme)
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)  
+![](https://img.shields.io/badge/Concentrate-Cpp-blue)
+![](https://img.shields.io/badge/Rust-primer-orange)
+![](https://img.shields.io/badge/Target-OS-9cf)  
 **I am working on datastruct and C++**  
 **I am trying to be an excellent OS programmer.**  
 
