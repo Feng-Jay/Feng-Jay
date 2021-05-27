@@ -11,7 +11,7 @@
 **I am working on datastruct and C++**  
 **I am trying to be an excellent OS programmer.**  
 
-📘 **TIME SPEND THESE DAYS ⬇️**
+📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
