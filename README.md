@@ -1,4 +1,4 @@
-### Hi there I'm Feng-Jay👋
+<h2 align="center"> Hi there, I'm Feng-Jay 👋 </h2>
 ![](https://github.com/Feng-Jay/DataStruct/blob/master/Image/1.png)  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Feng-Jay&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
