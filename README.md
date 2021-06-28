@@ -18,6 +18,6 @@
 📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
 ```text
-Java   1 hr 14 mins    ████████████████████████▓   99.09 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
