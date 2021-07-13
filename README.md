@@ -18,6 +18,6 @@
 📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   1 min           ███████████████▓░░░░░░░░░   63.07 % 
 ```
 <!--END_SECTION:waka-->
