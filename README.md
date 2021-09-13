@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Concentrate-Cpp-blue)  
 ![](https://img.shields.io/badge/Rust-primer-orange)
 ![](https://img.shields.io/badge/Target-OS-9cf)  
-**I am working on datastruct and C++**  
+**I am working on Mit's lab and C++**  
 **I am trying to be an excellent OS programmer.**  
 
 
