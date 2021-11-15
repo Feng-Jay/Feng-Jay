@@ -18,7 +18,7 @@
 📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2021 - 13 November, 2021
+Week: 08 November, 2021 - 14 November, 2021
 
 C++   25 mins         █████████████████████████   100.00 % 
 ```
