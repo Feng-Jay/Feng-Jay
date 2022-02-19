@@ -20,8 +20,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 5 hrs 34 mins
-
 TeX        3 hrs 6 mins    ██████████████░░░░░░░░░░░   55.79 % 
 Markdown   1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.82 % 
 Python     1 hr 3 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.00 % 
