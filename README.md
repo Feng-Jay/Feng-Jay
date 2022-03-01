@@ -19,13 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2022 - To: 28 February 2022
+From: 22 February 2022 - To: 01 March 2022
 
-TeX      6 hrs 20 mins   ██████████████████░░░░░░░   72.54 %
-Python   1 hr 39 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
-Text     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-BibTeX   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python   1 hr 39 mins    ███████████████████░░░░░░   75.89 %
+Text     31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
