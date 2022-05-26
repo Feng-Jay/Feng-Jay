@@ -19,11 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2022 - To: 25 May 2022
+From: 19 May 2022 - To: 26 May 2022
 
-Markdown   4 hrs 57 mins   ██████████████████░░░░░░░   71.35 %
-Assembly   1 hr 59 mins    ███████░░░░░░░░░░░░░░░░░░   28.57 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   4 hrs 38 mins   █████████████████████▒░░░   85.44 %
+Assembly   47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
 ```
 
 <!--END_SECTION:waka-->
