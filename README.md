@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 June 2022 - To: 09 June 2022
+From: 03 June 2022 - To: 10 June 2022
 
-Python   2 hrs 19 mins   █████████████████████▒░░░   85.48 %
-Text     12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Other    10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Python   2 hrs 19 mins   ██████████████████████▓░░   90.07 %
+Text     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Other    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
