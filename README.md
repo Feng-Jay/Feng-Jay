@@ -22,9 +22,7 @@ I am trying to be an excellent OS programmer.
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Feng-Jay&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 <!-- ![Calendar]() -->
-<img src='/metrics.plugin.isocalendar.fullyear.svg' align='left' />
-
-<img src='metrics.plugin.stargazers.svg' align='right'>
+<img src='/metrics.plugin.isocalendar.fullyear.svg' align='left' />  <img src='metrics.plugin.stargazers.svg' align='right'>
 
 &emsp;
 
@@ -32,7 +30,6 @@ I am trying to be an excellent OS programmer.
 
 📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
-
 ```text
 From: 25 August 2022 - To: 01 September 2022
 
