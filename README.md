@@ -26,6 +26,8 @@ I am trying to be an excellent OS programmer.
 
 <img src='metrics.plugin.stargazers.svg' align='right'>
 
+&emsp;
+
 <!-- ![Metrics](/github-metrics.svg) -->
 
 📘 **TIME SPEND THIS WEEK ⬇️**
