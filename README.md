@@ -4,7 +4,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Feng-Jay&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src='/metrics.plugin.achievements.compact.svg' align='right' />
+
 
 <!-- <img src='/metrics.plugin.achievements.compact.svg' align='right' /> -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.readme)
@@ -20,8 +20,8 @@ I am trying to be an excellent OS programmer.
 <!-- ![Achievement]() -->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Feng-Jay&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
-![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
-
+<!-- ![Calendar]() -->
+<img src='/metrics.plugin.isocalendar.fullyear.svg' align='center' />
 
 <!-- ![Metrics](/github-metrics.svg) -->
 
