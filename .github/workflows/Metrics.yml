@@ -12,8 +12,14 @@ jobs:
     steps:
       - name: github-metrics
         uses: lowlighter/metrics@latest
-        # permissions:
-        #   contents: write
         with:
           token: ${{ secrets.METRIC_API }}
+      - name: Current year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.svg
+          token: ${{ secrets.METRIC_API }}
+          base: ""
+          plugin_calendar: yes
+
   
