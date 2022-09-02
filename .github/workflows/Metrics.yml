@@ -35,12 +35,12 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
 
-      - name: Using classic charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stargazers.svg
-          token: ${{ secrets.METRIC_API }}
-          base: ""
-          plugin_stargazers: yes
+      # - name: Using classic charts
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.stargazers.svg
+      #     token: ${{ secrets.METRIC_API }}
+      #     base: ""
+      #     plugin_stargazers: yes
 
   
