@@ -4,13 +4,15 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Feng-Jay&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src='/metrics.plugin.achievements.compact.svg' align='right' />
+<p align="left">
 ![](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.readme)
 ![](https://img.shields.io/badge/Concentrate-Cpp-blue)  
 ![](https://img.shields.io/badge/Rust-primer-orange)
 ![](https://img.shields.io/badge/Target-OS-9cf)  
 **I am working on Mit's lab and C++**  
 **I am trying to be an excellent OS programmer.**   
-<img src='/metrics.plugin.achievements.compact.svg' align='right' style=' width:300px;height:100 px'/>
+</p>
 <!-- ![Achievement]() -->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Feng-Jay&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
