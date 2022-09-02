@@ -5,11 +5,13 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Feng-Jay&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src='/metrics.plugin.achievements.compact.svg' align='right' />
+
 <!-- <img src='/metrics.plugin.achievements.compact.svg' align='right' /> -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.readme)
 ![](https://img.shields.io/badge/Concentrate-Cpp-blue)  
 ![](https://img.shields.io/badge/Rust-primer-orange)
 ![](https://img.shields.io/badge/Target-OS-9cf)  
+
 <p align="left">
 **I am working on Mit's lab and C++**  
 **I am trying to be an excellent OS programmer.**   
