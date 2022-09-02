@@ -9,11 +9,11 @@ on:
 jobs:
   examples:
     runs-on: ubuntu-latest
-  steps:
-    - name: github-metrics
-      uses: lowlighter/metrics@latest
-      permissions:
-        contents: write
-      with:
-        token: ${{ secrets.METRIC_API }}
+    steps:
+      - name: github-metrics
+        uses: lowlighter/metrics@latest
+        permissions:
+          contents: write
+        with:
+          token: ${{ secrets.METRIC_API }}
   
