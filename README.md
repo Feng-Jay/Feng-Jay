@@ -28,10 +28,6 @@ I am trying to be an excellent OS programmer.
 
 <!-- ![Metrics](/github-metrics.svg) -->
 
-
-
-
-
 📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
 
