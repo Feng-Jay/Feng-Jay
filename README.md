@@ -13,8 +13,9 @@
 ![](https://img.shields.io/badge/Target-OS-9cf)  
 
 <p align="left">
-**I am working on Mit's lab and C++**  
-**I am trying to be an excellent OS programmer.**   
+I am working on Mit's lab and C++
+
+I am trying to be an excellent OS programmer. 
 </p>
 <!-- ![Achievement]() -->
 
