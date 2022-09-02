@@ -6,7 +6,7 @@
 
 
 
-<!-- <img src='/metrics.plugin.achievements.compact.svg' align='right' /> -->
+<img src='/metrics.plugin.achievements.compact.svg' align='right' />
 ![](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.readme)
 ![](https://img.shields.io/badge/Concentrate-Cpp-blue)  
 ![](https://img.shields.io/badge/Rust-primer-orange)
