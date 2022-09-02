@@ -16,7 +16,7 @@
 **I am working on Mit's lab and C++**  
 **I am trying to be an excellent OS programmer.**  
 
-![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
+![Calendar](/metrics.plugin.calendar.svg)
 ![Metrics](/github-metrics.svg)
 
 📘 **TIME SPEND THIS WEEK ⬇️**
