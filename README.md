@@ -9,7 +9,9 @@
 ![](https://img.shields.io/badge/Rust-primer-orange)
 ![](https://img.shields.io/badge/Target-OS-9cf)  
 **I am working on Mit's lab and C++**  
-**I am trying to be an excellent OS programmer.**   ![Achievement](/metrics.plugin.achievements.compact.svg)
+**I am trying to be an excellent OS programmer.**   
+&emsp;
+![Achievement](/metrics.plugin.achievements.compact.svg)
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Feng-Jay&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 ![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
@@ -18,7 +20,7 @@
 <!-- ![Metrics](/github-metrics.svg) -->
 
 
-&emsp;
+
 
 
 📘 **TIME SPEND THIS WEEK ⬇️**
