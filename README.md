@@ -2,7 +2,7 @@
 
 <!-- ![](https://github.com/Feng-Jay/DataStruct/blob/master/Image/1.png)   -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Feng-Jay&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Feng-Jay&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ![Calendar](/metrics.plugin.isocalendar.svg)
 
