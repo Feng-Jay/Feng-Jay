@@ -14,6 +14,8 @@
 **I am working on Mit's lab and C++**  
 **I am trying to be an excellent OS programmer.**  
 
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
 📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
