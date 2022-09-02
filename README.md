@@ -2,6 +2,10 @@
 
 ![](https://github.com/Feng-Jay/DataStruct/blob/master/Image/1.png)  
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Feng-Jay&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <img src='/metrics.plugin.achievements.compact.svg' align='right' />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.readme)
@@ -21,7 +25,7 @@ I am trying to be an excellent OS programmer.
 <img src='/metrics.plugin.isocalendar.fullyear.svg' align='center' />  
 <!-- 
 <img src='metrics.plugin.stargazers.svg' align='right' width='200' height='200'> -->
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Feng-Jay&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 &emsp;
 
 <!-- ![Metrics](/github-metrics.svg) -->
