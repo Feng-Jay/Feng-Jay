@@ -34,12 +34,12 @@ I am trying to be an excellent OS programmer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 September 2022 - To: 23 September 2022
+From: 17 September 2022 - To: 24 September 2022
 
-Python     9 hrs 24 mins   █████████████████████▓░░░   87.29 %
-C++        1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Text       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Python     11 hrs 3 mins   ██████████████████████░░░   87.82 %
+C++        1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Markdown   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
