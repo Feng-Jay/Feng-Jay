@@ -34,12 +34,11 @@ I am trying to be an excellent OS programmer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 October 2022 - To: 30 October 2022
+From: 24 October 2022 - To: 31 October 2022
 
-CSV      10 hrs 30 mins  ████████████▒░░░░░░░░░░░░   49.05 %
-Python   9 hrs 19 mins   ███████████░░░░░░░░░░░░░░   43.50 %
-JSON     1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Text     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+CSV      10 hrs 30 mins  ████████████████░░░░░░░░░   63.98 %
+Python   4 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.44 %
+JSON     1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 
 <!--END_SECTION:waka-->
