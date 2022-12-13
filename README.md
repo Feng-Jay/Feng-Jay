@@ -34,7 +34,7 @@ I am trying to be an excellent OS programmer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 12 December 2022
+From: 06 December 2022 - To: 13 December 2022
 
 Python   10 hrs 32 mins  ███████████████████████▒░   93.27 %
 Text     43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
