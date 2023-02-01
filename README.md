@@ -34,14 +34,13 @@ I am trying to be an excellent OS programmer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 31 January 2023
+From: 25 January 2023 - To: 01 February 2023
 
-Markdown   2 hrs 19 mins   ████████████████▒░░░░░░░░   65.78 %
-Python     42 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Java       15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Text       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown   1 hr 3 mins     ████████████▓░░░░░░░░░░░░   50.83 %
+Python     31 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
+Java       15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Text       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
