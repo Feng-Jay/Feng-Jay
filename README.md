@@ -33,7 +33,7 @@ I am trying to be an excellent OS programmer.
 📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Text   29 mins         █████████████▓░░░░░░░░░░░   54.75 %
