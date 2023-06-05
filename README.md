@@ -34,11 +34,10 @@ I am trying to be an excellent OS programmer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-Text   29 mins         █████████████▓░░░░░░░░░░░   54.75 %
-Diff   16 mins         ████████░░░░░░░░░░░░░░░░░   31.52 %
-Java   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Text   28 mins         ██████████████████████▒░░   89.77 %
+Diff   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
 ```
 
 <!--END_SECTION:waka-->
