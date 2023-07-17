@@ -34,13 +34,13 @@ I am trying to be an excellent OS programmer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2023 - To: 16 July 2023
+From: 10 July 2023 - To: 17 July 2023
 
-Java             23 hrs 39 mins  ████████████████████░░░░░   79.61 %
-Python           3 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Text             1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-JSON             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Diff             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Java             26 hrs 36 mins  ████████████████████▓░░░░   82.42 %
+Python           4 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+JSON             37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+XML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
