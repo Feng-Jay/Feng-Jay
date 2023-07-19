@@ -4,7 +4,7 @@
 
 <img src='/metrics.plugin.achievements.compact.svg' align='right' />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.Feng-Jay&left_color=green&right_color=red)
 ![](https://img.shields.io/badge/Concentrate-Cpp-blue)
 ![](https://img.shields.io/badge/Rust-primer-orange)
 ![](https://img.shields.io/badge/Target-OS-9cf)  
