@@ -1,7 +1,6 @@
 <h2 align="center"> Hi there, I'm Feng-Jay 👋 </h2>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Feng-Jay&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Feng-Jat&row=1&column=8&margin-w=15&margin-h=15" alt="Feng-Jat" /></a> </p>
 
 <img src='/metrics.plugin.achievements.compact.svg' align='right' />
 
