@@ -1,7 +1,6 @@
 <h2 align="center"> Hi there, I'm Feng-Jay 👋 </h2>  
 
-![](https://github.com/Feng-Jay/DataStruct/blob/master/Image/1.png)  
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <img src='/metrics.plugin.achievements.compact.svg' align='right' />
@@ -12,7 +11,7 @@
 ![](https://img.shields.io/badge/Target-OS-9cf)  
 
 <p align="left"><b>
-I am working on Mit's lab and C++
+I am working on Mit's lab and 
 
 I am trying to be an excellent OS programmer. 
 </b></p>
