@@ -4,7 +4,7 @@
 
 <img src='/metrics.plugin.achievements.compact.svg' align='right' />
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Feng-Jay.Feng-Jay&left_color=green&right_color=red)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Feng-Jay&label=Profile%20views&color=0e75b6&style=flat" alt="Feng-Jay" /> </p>
 ![](https://img.shields.io/badge/Concentrate-Cpp-blue)
 ![](https://img.shields.io/badge/Rust-primer-orange)
 ![](https://img.shields.io/badge/Target-OS-9cf)  
