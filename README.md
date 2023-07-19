@@ -7,7 +7,26 @@
 
 # 👋 About Me
 
-Hi, I'm Fengjie Li, currently a postgraduate student at the [Software Analysis and Intelligent Lab (SAIL) in the College of Intelligence and Computing at Tianjin University](https://tjusail.github.io/), working towards Automatic Program Repair(APR). In particular, I am researching towards building APR Tools by employing techniques such as program analysis, AST analysis, and utilizing AI models. Earlier, I graduated with Bachelor Degree in Computer Science from Tianjin University.
+Hi, I'm Fengjie Li, currently a postgraduate student at the [Software Analysis and Intelligent Lab (SAIL) in the College of Intelligence and Computing at Tianjin University](https://tjusail.github.io/), working towards alleviating the pain of bug fixing. In particular, I am researchinfg to explore how computer can automatically fixes bugs by employing techniques such as program analysis, AST analysis and AI models. Earlier, I graduated with Bachelor Degree in Computer Science from Tianjin University.
+
+# 💡 My Interest
+
+I’m interested in Automatic Program Repair (APR). My research passion is Programming Language Analysis -- A way hecking into source code. More specifically, I am motivated by building tools and techniques that reduce the burden on programmers by automating the bug-fixing process they encounter in their daily work. Over the years, I have been building developer assistance tools with research collaboration across Software Engineering, Machine Learning and Program Analysis.
+
+# ⛰️ My Goal
+
+😎 **Learning:**
+
+* Program Analysis, AST Traveling & Matching, AI Models Finetuning and Defect Prediction.
+
+💪 **Struggling:**
+
+* Successfully obtained a master's degree.
+* Improving problem-solving abilities in programming.
+
+# 🎮 **Gaming:**
+
+* Elden Ring, Tear of Kingdom, Over Watch...
 
 
 📘 **TIME SPEND THIS WEEK ⬇️**
