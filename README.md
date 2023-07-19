@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Feng-Jay 👋 </h2>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Feng-Jay)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <img src='/metrics.plugin.achievements.compact.svg' align='right' />
