@@ -7,7 +7,7 @@
 
 # 👋 About Me
 
-Hi, I'm Fengjie Li, currently a postgraduate student at the [Software Analysis and Intelligent Lab (SAIL) in the College of Intelligence and Computing at Tianjin University](https://tjusail.github.io/), working towards alleviating the pain of bug fixing. In particular, I am researchinfg to explore how computer can automatically fixes bugs by employing techniques such as program analysis, AST analysis and AI models. Earlier, I graduated with Bachelor Degree in Computer Science from Tianjin University.
+Hi, I'm Fengjie Li, currently a postgraduate student at the [Software Analysis and Intelligent Lab (SAIL) in the College of Intelligence and Computing at Tianjin University](https://tjusail.github.io/), working towards alleviating the pain of bug fixing. In particular, I am researching to explore how computer can automatically fixes bugs by employing techniques such as program analysis, AST analysis and AI models. Earlier, I graduated with Bachelor Degree in Computer Science from Tianjin University.
 
 # 💡 My Interest
 
