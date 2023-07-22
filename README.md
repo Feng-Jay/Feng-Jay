@@ -26,8 +26,9 @@ I’m interested in Automatic Program Repair (APR). My research passion is Progr
 
 # 🎮 **Gaming:**
 
-* Elden Ring, Tear of Kingdom, Over Watch...
+* Elden Ring💍, The Legend of Zelda: Tears of the Kingdom, Overwatch...
 
+Looking forward to game friends🤗 PlayStation ID: FFengJay;
 
 📘 **TIME SPEND THIS WEEK ⬇️**
 <!--START_SECTION:waka-->
