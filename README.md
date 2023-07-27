@@ -30,7 +30,7 @@ I’m interested in Automatic Program Repair (APR). My research passion is Progr
 
 Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: SW-1513-8374-2230.
 
-📘 **TIME SPEND THIS WEEK ⬇️**
+😂 **Last 7 Days' Coding Time 👇**
 <!--START_SECTION:waka-->
 
 ```txt
