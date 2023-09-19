@@ -34,7 +34,7 @@ Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
 Java       8 mins          ███████████████▒░░░░░░░░░   61.15 %
 Text       4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.61 %
