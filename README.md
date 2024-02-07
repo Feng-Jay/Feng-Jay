@@ -34,7 +34,7 @@ Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2024 - To: 06 February 2024
+From: 31 January 2024 - To: 07 February 2024
 
 Text     1 hr 11 mins    ████████████░░░░░░░░░░░░░   48.32 %
 Python   51 mins         ████████▓░░░░░░░░░░░░░░░░   34.93 %
