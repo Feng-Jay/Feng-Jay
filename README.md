@@ -34,7 +34,7 @@ Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2025 - To: 09 May 2025
+From: 03 May 2025 - To: 10 May 2025
 
 Python         9 hrs 32 mins   █████████████████████░░░░   84.59 %
 JSON           40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
