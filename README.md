@@ -11,13 +11,13 @@ Hi, I'm Fengjie Li, currently a postgraduate student at the [Software Analysis a
 
 # 💡 My Interest
 
-I’m interested in Automatic Program Repair (APR). My research passion is Programming Language Analysis -- A way hecking into source code. More specifically, I am motivated by building tools and techniques that reduce the burden on programmers by automating the bug-fixing process they encounter in their daily work. Over the years, I have been building developer assistance tools with research collaboration across Software Engineering, Machine Learning and Program Analysis.
+I’m interested in Automatic Program Repair (APR). My research passion is Programming Language Analysis -- A way hacking into source code. More specifically, I am motivated by building tools and techniques that reduce the burden on programmers by automating the bug-fixing process they encounter in their daily work. Over the years, I have been building developer assistance tools with research collaboration across Software Engineering, Machine Learning and Program Analysis.
 
 # ⛰️ My Goal
 
 😎 **Learning:**
 
-* Program Analysis, AST Traveling & Matching, AI Models Finetuning and Defect Prediction.
+* Program Analysis, AST Traveling & Matching, AI Models Finetuning.
 
 💪 **Struggling:**
 
