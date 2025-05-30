@@ -7,17 +7,17 @@
 
 # 👋 About Me
 
-Hi, I'm Fengjie Li, currently a postgraduate student at the [Software Analysis and Intelligent Lab (SAIL) in the College of Intelligence and Computing at Tianjin University](https://tjusail.github.io/), working towards alleviating the pain of bug fixing. In particular, I am researching to explore how computer can automatically fixes bugs by employing techniques such as program analysis, AST analysis and AI models. Earlier, I graduated with Bachelor Degree in Computer Science from Tianjin University.
+Hi, I'm Fengjie Li, currently a postgraduate student at the [Software Analysis and Intelligent Lab (SAIL) in the College of Intelligence and Computing at Tianjin University](https://tjusail.github.io/), working towards alleviating the pain of bug fixing. Earlier, I graduated with Bachelor Degree in Computer Science from Tianjin University. I enjoy reading, running, and playing video games in my spare time.
 
 # 💡 My Interest
 
-I’m interested in Automatic Program Repair (APR). My research passion is Programming Language Analysis -- A way hacking into source code. More specifically, I am motivated by building tools and techniques that reduce the burden on programmers by automating the bug-fixing process they encounter in their daily work. Over the years, I have been building developer assistance tools with research collaboration across Software Engineering, Machine Learning and Program Analysis.
+I am interested in Automated Program Repair (APR), with a broader research passion for Program Analysis—a discipline that enables deep insights into source code. Specifically, I am motivated by developing tools and techniques that reduce the burden on programmers by automating the bug-fixing process they face in daily development. Over the years, I have been building developer-assistance tools through collaborative research at the intersection of Software Engineering, Machine Learning, and Program Analysis.
 
 # ⛰️ My Goal
 
 😎 **Learning:**
 
-* Program Analysis, AST Traveling & Matching, AI Models Finetuning.
+* Program Analysis, AST Travelsal & Matching, LLMs.
 
 💪 **Struggling:**
 
@@ -26,7 +26,7 @@ I’m interested in Automatic Program Repair (APR). My research passion is Progr
 
 # 🎮 **Gaming:**
 
-* Elden Ring💍, The Legend of Zelda: Tears of the Kingdom, Overwatch...
+* Elden Ring💍, The Legend of Zelda: Tears of the Kingdom, Overwatch2...
 
 Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: SW-1513-8374-2230.
 
