@@ -34,7 +34,7 @@ Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2025 - To: 29 May 2025
+From: 23 May 2025 - To: 30 May 2025
 
 Java         2 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   40.94 %
 Markdown     1 hr 55 mins    ████████▒░░░░░░░░░░░░░░░░   32.97 %
