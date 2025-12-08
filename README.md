@@ -34,7 +34,7 @@ Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
 Rust             7 hrs 22 mins   █████████████████░░░░░░░░   68.13 %
 Python           2 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   23.52 %
