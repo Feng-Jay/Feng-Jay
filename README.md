@@ -34,13 +34,13 @@ Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2026 - To: 11 May 2026
+From: 05 May 2026 - To: 12 May 2026
 
-Python       8 hrs 2 mins          ████████░░░░░░░░░░░░░░░░░   32.12 %
-HTML         5 hrs 51 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-Text         4 hrs 41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-Other        2 hrs 51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-JSON         2 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Python       8 hrs 2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.39 %
+HTML         5 hrs 51 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
+Text         4 hrs 43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+Other        3 hrs 24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+JSON         2 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
 ```
 
 <!--END_SECTION:waka-->
