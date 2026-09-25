@@ -34,13 +34,13 @@ Looking forward to game friends🤗 PlayStation ID: FFengJay; Nintendo Switch: S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Other            5 hrs 25 mins         █████████▒░░░░░░░░░░░░░░░   37.08 %
-Rust             4 hrs 2 mins          ███████░░░░░░░░░░░░░░░░░░   27.61 %
-Python           3 hrs 22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-JSON             44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-C                33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Other            5 hrs 36 mins         █████████▓░░░░░░░░░░░░░░░   38.50 %
+Rust             4 hrs 2 mins          ███████░░░░░░░░░░░░░░░░░░   27.69 %
+JavaScript       1 hr 48 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Python           1 hr 27 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+JSON             44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 ```
 
 <!--END_SECTION:waka-->
